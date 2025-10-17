@@ -8,8 +8,9 @@
 <h1 align="center">Hi 👋, I’m Mohammad Hossein — RL researcher & Python developer</h1>
 
 <p align="center">
-  <em>Master's student specializing in Reinforcement Learning for algorithmic trading in cryptocurrency markets. Passionate about AI × Finance, reproducible research, and building production-ready experimental code.</em>
+  <em>I'm a Python developer and master's student passionate about Artificial Intelligence — especially Reinforcement Learning. My research focuses on optimizing RL algorithms for algorithmic trading in financial markets, aiming to build intelligent trading agents that adapt to real-world market dynamics.</em>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/hossein"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hossein&show_icons=true&count_private=true&theme=default" /></a>
