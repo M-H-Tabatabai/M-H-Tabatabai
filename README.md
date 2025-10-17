@@ -18,10 +18,10 @@
 ---
 
 ## About Me
-🎓 Master's student in Software Engineering at Tarbiat Modares University — ranked #1 in the program.
-🔬 Research focus: Applying Reinforcement Learning to financial markets — especially algorithmic trading in cryptocurrencies (designing robust agents under noise, latency, and transaction costs).
-🏅 Academic highlights: Achieved A grades in Machine Learning and Reinforcement Learning courses.
-💻 Programming languages: Python, HTML, CSS.
+-🎓 Master's student in Software Engineering at Tarbiat Modares University — ranked #1 in the program.
+-🔬 Research focus: Applying Reinforcement Learning to financial markets — especially algorithmic trading in cryptocurrencies (designing robust agents under noise, latency, and transaction costs).
+-🏅 Academic highlights: Achieved A grades in Machine Learning and Reinforcement Learning courses.
+-💻 Programming languages: Python, HTML, CSS.
 
 ---
 
