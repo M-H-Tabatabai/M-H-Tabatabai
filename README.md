@@ -30,17 +30,26 @@
 
 ## Key Skills
 **Technical**
-- Python, NumPy, Pandas  
-- Reinforcement Learning (policy & value methods), Stable-Baselines3, OpenAI Gym  
-- Machine learning fundamentals, model evaluation & backtesting  
-- Databases & SQL, data pipelines, Docker, Git / GitHub, CI (GitHub Actions)  
+- Python, NumPy, Pandas, Matplotlib  
+- Reinforcement Learning (policy & value methods), OpenAI Gym 
+- Machine learning fundamentals, model evaluation & backtesting
+- Familiar with databases, basic security concepts, and networking fundamentals,, Git / GitHub
+- Prompt engineering and practical use of AI development tools
 
 **Software Engineering**
-- Algorithm design, system design basics, Agile & Scrum practices  
-- Testing, reproducibility, packaging (pip-installable demos)
+- Algorithm design  
+- system design basics
+- Agile & Scrum practices
 
 **Soft Skills**
 - Discipline, responsibility, teamwork, problem solving, time management, creativity, eagerness to learn
 
+**Financial Markets**
+- Knowledge of cryptocurrency and traditional financial markets
+- Technical and fundamental analysis of assets
+- Algorithmic and quantitative trading strategies
+- Risk management and portfolio optimization
+- Backtesting trading strategies using historical data
+- Familiarity with trading platforms, APIs, and market data feeds,blockchain technology 
 ---
 
