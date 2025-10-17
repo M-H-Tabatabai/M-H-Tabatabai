@@ -1,9 +1,5 @@
 <!-- README.md for GitHub profile (English content) -->
 
-<!-- Banner: place a banner image at assets/banner.png (recommended size: ~1200x300) -->
-<p align="center">
-  <img src="assets/banner.png" alt="banner" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I’m Mohammad Hossein — RL researcher & Python developer</h1>
 
